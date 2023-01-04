@@ -1,0 +1,42 @@
+.react-logo {
+  width: 70px;
+  position: relative;
+  top: 50px;
+}
+
+.todo-box {
+  text-align: center;
+  background: #f2f2f2;
+  width: 80vw;
+  max-width: 768px;
+  height: auto;
+  margin: 40px auto;
+  border-radius: 15px;
+}
+
+.todoForm {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-todo {
+  margin: 70px auto 30px;
+  font-weight: 400;
+}
+
+.container-todo {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.errormsgToDo {
+  height: 100px;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-size: 1.5rem;
+}
